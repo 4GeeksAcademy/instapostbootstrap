@@ -12,10 +12,10 @@
 .button-grey {
     padding-right: 110px;
 }
-.mosaic-pic {
+.insta-pic {
     width: 400px;
     height: 400px;
-    margin: 10px 3px 3px 10px;
+    margin: 8px 3px 3px 8px;
     display: flex;
     justify-content: space-around;
 }
@@ -40,8 +40,8 @@
     display: flex;
     justify-content: center;
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 .card2 {
     padding-left: 0px;
